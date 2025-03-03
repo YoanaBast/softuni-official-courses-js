@@ -2,4 +2,4 @@
 <br>
 These are just learning tasks.
 <br><br>
-<img src="[pic_trulli.jpg](https://cdn.wallpapersafari.com/43/70/u0NJdw.jpg)" alt="Handsome Squidward">
+<img src="[pic_trulli.jpg](https://github.com/YoanaBast/softuni-official-courses-js/blob/master/handsome.jpg)" alt="Handsome Squidward">
