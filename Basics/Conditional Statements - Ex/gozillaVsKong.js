@@ -8,7 +8,7 @@ function count(budget, peopleQ, peopleP) {
 
     let expenses = decorP + clothes;
 
-    if (expenses < budget) {
+    if (expenses <= budget) {
         console.log('Action!');
         console.log(`Wingard starts filming with ${(budget - expenses).toFixed(2)} leva left.`);
     } else {
